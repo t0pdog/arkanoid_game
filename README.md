@@ -9,10 +9,12 @@ of the brick. After all the bricks on a given level are destroyed, there
 is a transition to the next level, with a new set of bricks.
 
 ### Technology:
----
+
+```
 Python 3.7.9
 pygame 2.2.0
----
+```
+
 ### Installation:
 Clone the repository. On the command line:
 ```
