@@ -2,14 +2,13 @@
 ![Arkanoid logo](1.jpg "Arkanoid logo")
 
 ### Description:
-* The player controls a small racket platform that can be moved horizontally
+The player controls a small racket platform that can be moved horizontally
 from one wall to another, substituting it under the ball, preventing it from
 falling down. The impact of the ball on the brick leads to the destruction 
 of the brick. After all the bricks on a given level are destroyed, there 
 is a transition to the next level, with a new set of bricks.
 
 ### Technology:
-
 ```
 Python 3.7.9
 pygame 2.2.0
